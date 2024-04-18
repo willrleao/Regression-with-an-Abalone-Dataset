@@ -9,3 +9,5 @@ Your Goal: The goal of this competition is to predict the age of abalone from va
 www.kaggle.com/competitions/playground-series-s4e4/overview/evaluation
 
 Link do notebook: https://www.kaggle.com/code/willhain/abalone
+
+<iframe src="https://www.kaggle.com/embed/willhain/abalone?kernelSessionId=172749710" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Abalone"></iframe>
